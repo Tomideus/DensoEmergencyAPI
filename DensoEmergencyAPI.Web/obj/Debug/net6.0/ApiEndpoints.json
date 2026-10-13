@@ -1,0 +1,52 @@
+[
+  {
+    "ContainingType": "DensoEmergencyAPI.Web.Controllers.AsignacionController",
+    "Method": "EjecutarAsignacionManual",
+    "RelativePath": "api/Asignacion/ejecutar",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.String",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "DensoEmergencyAPI.Web.Controllers.AsignacionController",
+    "Method": "GetEmpleadosPresentes",
+    "RelativePath": "api/Asignacion/empleados-presentes",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[DensoEmergencyAPI.Web.Models.Empleado, DensoEmergencyAPI.Web, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "DensoEmergencyAPI.Web.Controllers.AsignacionController",
+    "Method": "GetEstado",
+    "RelativePath": "api/Asignacion/estado",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

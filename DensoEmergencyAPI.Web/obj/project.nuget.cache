@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Pc85yopteR8=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\tomas\\source\\repos\\DensoEmergencyAPI.Web\\DensoEmergencyAPI.Web\\DensoEmergencyAPI.Web.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tomas\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\tomas\\.nuget\\packages\\npgsql\\7.0.9\\npgsql.7.0.9.nupkg.sha512",
+    "C:\\Users\\tomas\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
