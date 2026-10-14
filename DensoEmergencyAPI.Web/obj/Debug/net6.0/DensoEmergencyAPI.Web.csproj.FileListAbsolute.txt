@@ -35,3 +35,4 @@ C:\Users\tomas\source\repos\DensoEmergencyAPI.Web\DensoEmergencyAPI.Web\obj\Debu
 C:\Users\tomas\source\repos\DensoEmergencyAPI.Web\DensoEmergencyAPI.Web\bin\Debug\net6.0\Npgsql.dll
 C:\Users\tomas\source\repos\DensoEmergencyAPI.Web\DensoEmergencyAPI.Web\obj\Debug\net6.0\DensoEmergencyAPI.Web.csproj.AssemblyReference.cache
 C:\Users\tomas\source\repos\DensoEmergencyAPI.Web\DensoEmergencyAPI.Web\obj\Debug\net6.0\DensoEme.3C5DBDE9.Up2Date
+C:\Users\tomas\source\repos\DensoEmergencyAPI.Web\DensoEmergencyAPI.Web\obj\Debug\net6.0\DensoEmergencyAPI.Web.sourcelink.json

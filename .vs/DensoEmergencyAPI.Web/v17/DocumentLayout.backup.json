@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\tomas\\source\\repos\\DensoEmergencyAPI.Web\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4948AE49-FE36-47A1-8482-4EAA5201A477}|DensoEmergencyAPI.Web\\DensoEmergencyAPI.Web.csproj|c:\\users\\tomas\\source\\repos\\densoemergencyapi.web\\densoemergencyapi.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4948AE49-FE36-47A1-8482-4EAA5201A477}|DensoEmergencyAPI.Web\\DensoEmergencyAPI.Web.csproj|solutionrelative:densoemergencyapi.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4948AE49-FE36-47A1-8482-4EAA5201A477}|DensoEmergencyAPI.Web\\DensoEmergencyAPI.Web.csproj|c:\\users\\tomas\\source\\repos\\densoemergencyapi.web\\densoemergencyapi.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4948AE49-FE36-47A1-8482-4EAA5201A477}|DensoEmergencyAPI.Web\\DensoEmergencyAPI.Web.csproj|solutionrelative:densoemergencyapi.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4948AE49-FE36-47A1-8482-4EAA5201A477}|DensoEmergencyAPI.Web\\DensoEmergencyAPI.Web.csproj|c:\\users\\tomas\\source\\repos\\densoemergencyapi.web\\densoemergencyapi.web\\services\\databaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4948AE49-FE36-47A1-8482-4EAA5201A477}|DensoEmergencyAPI.Web\\DensoEmergencyAPI.Web.csproj|solutionrelative:densoemergencyapi.web\\services\\databaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4948AE49-FE36-47A1-8482-4EAA5201A477}|DensoEmergencyAPI.Web\\DensoEmergencyAPI.Web.csproj|c:\\users\\tomas\\source\\repos\\densoemergencyapi.web\\densoemergencyapi.web\\controllers\\asignacioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -15,12 +19,8 @@
       "RelativeMoniker": "D:0:0:{4948AE49-FE36-47A1-8482-4EAA5201A477}|DensoEmergencyAPI.Web\\DensoEmergencyAPI.Web.csproj|solutionrelative:densoemergencyapi.web\\services\\asignacionbackgroundservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4948AE49-FE36-47A1-8482-4EAA5201A477}|DensoEmergencyAPI.Web\\DensoEmergencyAPI.Web.csproj|c:\\users\\tomas\\source\\repos\\densoemergencyapi.web\\densoemergencyapi.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{4948AE49-FE36-47A1-8482-4EAA5201A477}|DensoEmergencyAPI.Web\\DensoEmergencyAPI.Web.csproj|solutionrelative:densoemergencyapi.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4948AE49-FE36-47A1-8482-4EAA5201A477}|DensoEmergencyAPI.Web\\DensoEmergencyAPI.Web.csproj|c:\\users\\tomas\\source\\repos\\densoemergencyapi.web\\densoemergencyapi.web\\services\\databaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4948AE49-FE36-47A1-8482-4EAA5201A477}|DensoEmergencyAPI.Web\\DensoEmergencyAPI.Web.csproj|solutionrelative:densoemergencyapi.web\\services\\databaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4948AE49-FE36-47A1-8482-4EAA5201A477}|DensoEmergencyAPI.Web\\DensoEmergencyAPI.Web.csproj|c:\\users\\tomas\\source\\repos\\densoemergencyapi.web\\densoemergencyapi.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4948AE49-FE36-47A1-8482-4EAA5201A477}|DensoEmergencyAPI.Web\\DensoEmergencyAPI.Web.csproj|solutionrelative:densoemergencyapi.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4948AE49-FE36-47A1-8482-4EAA5201A477}|DensoEmergencyAPI.Web\\DensoEmergencyAPI.Web.csproj|c:\\users\\tomas\\source\\repos\\densoemergencyapi.web\\densoemergencyapi.web\\models\\asignacionrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -38,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -62,19 +62,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "AsignacionController.cs",
               "DocumentMoniker": "C:\\Users\\tomas\\source\\repos\\DensoEmergencyAPI.Web\\DensoEmergencyAPI.Web\\Controllers\\AsignacionController.cs",
               "RelativeDocumentMoniker": "DensoEmergencyAPI.Web\\Controllers\\AsignacionController.cs",
               "ToolTip": "C:\\Users\\tomas\\source\\repos\\DensoEmergencyAPI.Web\\DensoEmergencyAPI.Web\\Controllers\\AsignacionController.cs",
               "RelativeToolTip": "DensoEmergencyAPI.Web\\Controllers\\AsignacionController.cs",
-              "ViewState": "AgIAAEAAAAAAAAAAAAAkwGQAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGQAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-06T22:11:44.673Z"
+              "WhenOpened": "2026-10-06T22:11:44.673Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "AsignacionBackgroundService.cs",
               "DocumentMoniker": "C:\\Users\\tomas\\source\\repos\\DensoEmergencyAPI.Web\\DensoEmergencyAPI.Web\\Services\\AsignacionBackgroundService.cs",
               "RelativeDocumentMoniker": "DensoEmergencyAPI.Web\\Services\\AsignacionBackgroundService.cs",
@@ -86,40 +87,41 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\tomas\\source\\repos\\DensoEmergencyAPI.Web\\DensoEmergencyAPI.Web\\Program.cs",
               "RelativeDocumentMoniker": "DensoEmergencyAPI.Web\\Program.cs",
               "ToolTip": "C:\\Users\\tomas\\source\\repos\\DensoEmergencyAPI.Web\\DensoEmergencyAPI.Web\\Program.cs",
               "RelativeToolTip": "DensoEmergencyAPI.Web\\Program.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACAAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-06T21:59:28.706Z",
+              "WhenOpened": "2026-10-06T21:59:28.706Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\tomas\\source\\repos\\DensoEmergencyAPI.Web\\DensoEmergencyAPI.Web\\appsettings.json",
+              "RelativeDocumentMoniker": "DensoEmergencyAPI.Web\\appsettings.json",
+              "ToolTip": "C:\\Users\\tomas\\source\\repos\\DensoEmergencyAPI.Web\\DensoEmergencyAPI.Web\\appsettings.json*",
+              "RelativeToolTip": "DensoEmergencyAPI.Web\\appsettings.json*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAACdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-10-06T21:52:04.429Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\tomas\\source\\repos\\DensoEmergencyAPI.Web\\DensoEmergencyAPI.Web\\appsettings.json",
-              "RelativeDocumentMoniker": "DensoEmergencyAPI.Web\\appsettings.json",
-              "ToolTip": "C:\\Users\\tomas\\source\\repos\\DensoEmergencyAPI.Web\\DensoEmergencyAPI.Web\\appsettings.json",
-              "RelativeToolTip": "DensoEmergencyAPI.Web\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-10-06T21:52:04.429Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "DatabaseService.cs",
               "DocumentMoniker": "C:\\Users\\tomas\\source\\repos\\DensoEmergencyAPI.Web\\DensoEmergencyAPI.Web\\Services\\DatabaseService.cs",
               "RelativeDocumentMoniker": "DensoEmergencyAPI.Web\\Services\\DatabaseService.cs",
               "ToolTip": "C:\\Users\\tomas\\source\\repos\\DensoEmergencyAPI.Web\\DensoEmergencyAPI.Web\\Services\\DatabaseService.cs",
               "RelativeToolTip": "DensoEmergencyAPI.Web\\Services\\DatabaseService.cs",
-              "ViewState": "AgIAAF8AAAAAAAAAAAAIwHAAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-06T21:50:16.021Z"
+              "WhenOpened": "2026-10-06T21:50:16.021Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",

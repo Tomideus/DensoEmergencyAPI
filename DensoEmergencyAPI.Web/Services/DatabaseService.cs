@@ -12,8 +12,8 @@ namespace DensoEmergencyAPI.Web.Services
         // Inyección de dependencias para leer la configuración (appsettings.json)
         public DatabaseService(IConfiguration configuration)
         {
-            _connectionString = configuration.GetConnectionString("SupabaseConnection")
-                ?? throw new InvalidOperationException("Cadena de conexión 'SupabaseConnection' no configurada.");
+            _connectionString = Environment.GetEnvironmentVariable("SUPABASE_CONNECTION_STRING")
+                ?? throw new InvalidOperationException("Variable de entorno SUPABASE_CONNECTION_STRING no configurada.");
         }
 
         /// <summary>
