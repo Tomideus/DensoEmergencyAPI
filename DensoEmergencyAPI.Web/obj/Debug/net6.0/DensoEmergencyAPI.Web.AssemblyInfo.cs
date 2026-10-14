@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DensoEmergencyAPI.Web")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+192aa9dbb02b0b8f0fafcfdcd8db93a74a050e1d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+80b796543bea41d45c03d49a750c769f710a70b7")]
 [assembly: System.Reflection.AssemblyProductAttribute("DensoEmergencyAPI.Web")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DensoEmergencyAPI.Web")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
